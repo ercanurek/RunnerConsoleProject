@@ -1,0 +1,10 @@
+D:\New folder (2)\Runner_Console\SequenceAnalysis\bin\Debug\SequenceAnalysis.dll
+D:\New folder (2)\Runner_Console\SequenceAnalysis\bin\Debug\SequenceAnalysis.pdb
+D:\New folder (2)\Runner_Console\SequenceAnalysis\obj\Debug\ResolveAssemblyReference.cache
+D:\New folder (2)\Runner_Console\SequenceAnalysis\obj\Debug\SequenceAnalysis.dll
+D:\New folder (2)\Runner_Console\SequenceAnalysis\obj\Debug\SequenceAnalysis.pdb
+D:\RunnerConsoleProject\Runner_Console\SequenceAnalysis\bin\Debug\SequenceAnalysis.dll
+D:\RunnerConsoleProject\Runner_Console\SequenceAnalysis\bin\Debug\SequenceAnalysis.pdb
+D:\RunnerConsoleProject\Runner_Console\SequenceAnalysis\obj\Debug\ResolveAssemblyReference.cache
+D:\RunnerConsoleProject\Runner_Console\SequenceAnalysis\obj\Debug\SequenceAnalysis.dll
+D:\RunnerConsoleProject\Runner_Console\SequenceAnalysis\obj\Debug\SequenceAnalysis.pdb
